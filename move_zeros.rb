@@ -1,5 +1,7 @@
 # question no : 283
 
+# @param {Integer[]} nums
+# @return {Integer}
 def move_zeroes(nums)
     i = 0
     loop_count = 0
