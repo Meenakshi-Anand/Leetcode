@@ -37,8 +37,8 @@ _If you like this project, please leave me a star._ &#9733;
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](../master/design_linked_list.rb) | O(k) get/add/delete at index k
 O(1) add at head O(n) add at tail
 | O(1) | Medium
-|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
-|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/linked_list_cycle.rb) | O(n) | O(1) | Easy
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../master/linkedList-list_cycle_ii.rb) | O(n) | O(n) | Medium
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
