@@ -34,7 +34,9 @@ _If you like this project, please leave me a star._ &#9733;
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](../master/valid_palindrome.rb) | O(n^2) | O(1) | Easy
 |20|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)|[Solution](../master/valid_parenthesis.rb) | O(n) | O(n) | Easy
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Solution](../master/long_pressed_name.rb) | O(N+T) | O(N+T) | Easy
-|707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](../master/design_linked_list.rb) | O(k) get/add/delete at index k | O(1) | Easy
+|707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](../master/design_linked_list.rb) | O(k) get/add/delete at index k
+O(1) add at head O(n) add at tail
+| O(1) | Medium
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
