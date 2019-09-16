@@ -39,8 +39,8 @@ O(1) add at head O(n) add at tail
 | O(1) | Medium
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/linked_list_cycle.rb) | O(n) | O(1) | Easy
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../master/linkedList-list_cycle_ii.rb) | O(n) | O(n) | Medium
-|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
-|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|160|[Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](../master/intersection_of_two_linked_lists.rb) | O(m+n) | O(1) | Easy
+|19|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../master/remove_nth_node_from_end_of_list.rb) | O(S) | O(S) | Easy
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy

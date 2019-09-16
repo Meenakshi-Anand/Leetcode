@@ -22,6 +22,59 @@
 # Output: no cycle
 # Explanation: There is no cycle in the linked list.
 
+require 'set'
+
+class Node
+attr_accessor :value , :next
+  def initialize(value)
+    @value = value
+    @next = nil
+  end
+end
+
+
+class Linkedlist
+  attr_accessor :head
+
+  def initialize()
+    @head = nil
+  end
+
+  def create_linked_list (arr,pos)
+    return nil if (pos == -1)
+    current_node = nil
+    pos_node = nil
+    arr.each_with_index do |el,i|
+      new_node = Node.new(el)
+      puts i
+      if (i == 0)
+        @head = new_node
+        current_node = @head
+      elsif (i == arr.length-1)
+        new_node.next = pos_node
+        current_node.next = new_node
+      else
+        current_node.next = new_node
+        current_node = current_node.next
+      end
+
+      if (i == pos)
+        pos_node = current_node
+      end
+
+    end
+    @head
+  end
+
+  def print_list()
+  current_node = @head
+  while(current_node.next != nil)
+  current_node= current_node.next
+  end
+  end
+
+end
+
 def detect_cycle1(head)
   return nil if (head == nil)
   ptr_1 = head
