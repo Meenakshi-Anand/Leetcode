@@ -42,7 +42,7 @@ O(1) add at head O(n) add at tail
 |160|[Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](../master/intersection_of_two_linked_lists.rb) | O(m+n) | O(1) | Easy
 |19|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../master/remove_nth_node_from_end_of_list.rb) | O(L) | O(1) | Medium
 |876|[Middle Of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Solution](../master/middle_of_linked_list.rb) | O(L) | O(1) | Easy
-|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](../master/reverse_linked_list.rb) | O(n) | O(1) | Easy
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)|[Solution](../master/valid_number.rb) | O(n) | O(1) | Hard
