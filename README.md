@@ -33,4 +33,14 @@ _If you like this project, please leave me a star._ &#9733;
 |387|[First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](../master/first_unique_character_in_a_string.rb) | O(n^2) | O(1) | Easy
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](../master/valid_palindrome.rb) | O(n^2) | O(1) | Easy
 |20|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)|[Solution](../master/valid_parenthesis.rb) | O(n) | O(n) | Easy
-|925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Solution](../master/long_pressed_name.rb) | O(N+T) | O(N+T) | Easy|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Solution](../master/long_pressed_name.rb) | O(N+T) | O(N+T) | Easy
+|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
+|65|[Valid Number](https://leetcode.com/problems/valid-number/)|[Solution](../master/valid_number.rb) | O(n) | O(1) | Hard
