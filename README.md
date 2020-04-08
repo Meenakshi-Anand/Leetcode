@@ -21,7 +21,7 @@ _If you like this project, please leave me a star._ &#9733;
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](../master/plus_one.rb) | O(n) | O(1) | Easy
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/reverse_string.rb) | O(n) | O(1) | Easy
 |1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)|[Solution](../master/two_sum_less_than_k.rb) | O(nlogn) | O(1) | Easy
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](../master/two_sum.rb) | O(n^2) | O(1) | Easy
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](../master/two_sum.rb) | O(n) | O(n) | Easy
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Solution](../master/to_lower_case.rb) | O(n) | O(1) | Easy
 |804|[Unique Morse Code](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](../master/unique_morse_code.rb) | O(S) | O(S) | Easy
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Solution](../master/unique_email_addresses.rb) | O(C) | O(C)| Easy

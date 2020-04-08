@@ -12,14 +12,34 @@
 # @param {Integer[]} nums
 # @param {Integer} target
 # @return {Integer[]}
+
+# Brute force
+# def two_sum(nums, target)
+#     nums.each_with_index do |n,i|
+#         j = i+1
+#         while(j < nums.length)
+#             return [i,j] if nums[i]+nums[j] == target
+#             j+=1
+#         end
+#     end
+# end
+
+# 2 pass hash
+# def two_sum(nums, target)
+#     hash = {}
+#     nums.each_with_index do |n,i|
+#         hash[n] = i
+#     end
+#     nums.each_with_index do |m,j|
+#         return [j,hash[target-m]] if hash[target-m] && hash[target-m] != j
+#     end
+# end
+
+# one pass hash
 def two_sum(nums, target)
-    i = 0
-    while (i < nums.length-1)
-        j= i+1
-        while (j < nums.length)
-            return [i,j] if ( nums[i]+nums[j] == target)
-            j= j +1
-        end
-        i = i+1
+    hash = {}
+    nums.each_with_index do |n,i|
+        return [i,hash[target-n]] if hash[target-n]
+        hash[n] = i
     end
 end
